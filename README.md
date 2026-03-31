@@ -66,7 +66,7 @@ Google-Stock-Analysis-2004-2025/
 │
 ├── GOOG_2004-08-19_2025-08-20.csv    ← Raw stock data (5,284 rows)
 ├── Google Stock Anlysis.pbix          ← Power BI dashboard file
-├── dashboard_preview.png              ← Dashboard screenshot (upload this)
+├── dashboard_preview.png              ← Dashboard screenshot 
 ├── README.md
 └── LICENSE
 ```
@@ -75,7 +75,7 @@ Google-Stock-Analysis-2004-2025/
 
 ## 🗂️ Dataset Overview
 
-**Source:** Yahoo Finance — Google (GOOG) historical daily prices  
+**Source:** Kaggle — Google (GOOG) historical daily prices  
 **Period:** 19 August 2004 – 19 August 2025  
 **Rows:** 5,284 trading days · **Columns:** 7
 
@@ -211,5 +211,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 If you found this useful, give the repo a **star** ⭐ and feel free to **fork** it to build your own stock analysis on top of this template!
 
 ---
-
-> **📌 To display the dashboard image:** Take a screenshot of your Power BI dashboard, save it as `dashboard_preview.png`, upload it to the **root of this repo**, and the image in the Preview section above will render automatically on GitHub.
